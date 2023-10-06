@@ -22,3 +22,27 @@ Description: demo
 Name: icontweak
 Author: lequochieu <lequochieu284@gmail.com>
 
+Package: com.autotouch.demo
+Version: 1.0
+Section: Tweaks
+Maintainer: lequochieu <lequochieu284@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/autotouch.deb
+Size: 44510330
+MD5sum: 1cdd2619efe30ca200edff19dab43be1
+Description: demo
+Name: autotouch
+Author: lequochieu <lequochieu284@gmail.com>
+
+Package: com.openssh.demo
+Version: 1.0
+Section: Tweaks
+Maintainer: lequochieu <lequochieu284@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/openssh.deb
+Size: 1022
+MD5sum: 6c1f11f33cf21944c892351e0ea3b9c1
+Description: demo
+Name: openssh
+Author: lequochieu <lequochieu284@gmail.com>
+
