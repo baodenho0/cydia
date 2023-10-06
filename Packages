@@ -16,8 +16,8 @@ Section: Tweaks
 Maintainer: lequochieu <lequochieu284@gmail.com>
 Architecture: iphoneos-arm
 Filename: ./debs/icontweak_1.0.9.deb
-Size: 108018
-MD5sum: cb04e785d21cc1a08663537365822c04
+Size: 183030
+MD5sum: 8a09260d9790a1bb8f1247851be6d810
 Description: demo
 Name: icontweak
 Author: lequochieu <lequochieu284@gmail.com>
