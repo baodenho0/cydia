@@ -46,3 +46,15 @@ Description: demo
 Name: openssh
 Author: lequochieu <lequochieu284@gmail.com>
 
+Package: com.autotouch2vn.demo
+Version: 1.0
+Section: Tweaks
+Maintainer: lequochieu <lequochieu284@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/autotouch2vn.deb
+Size: 26461798
+MD5sum: 5794a01433e6789738f2ee434ea8091f
+Description: demo
+Name: autotouch2vn
+Author: lequochieu <lequochieu284@gmail.com>
+
